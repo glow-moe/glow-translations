@@ -142,5 +142,11 @@
   "HELP_HELPFUL_NO": "pek değil…",
   "HELP_HELPFUL_THANKS": "oy verdiğin için teşekkürler ♡",
   "HELP_PREV": "← önceki",
-  "HELP_NEXT": "sonraki →"
+  "HELP_NEXT": "sonraki →",
+  "LIVE_SUB": "şu an kimler bir şeyler yapıyor (◍•ᴗ•◍)",
+  "LIVE_ON_AIR": "yayında",
+  "LIVE_NOBODY": "şu an kimse yayında değil ૮₍ ´• ˕ •` ₎ა",
+  "LIVE_CHECK_BACK": "bir oyun başlayınca tekrar uğra ✦",
+  "NAV_LIVE": "L!VE",
+  "NAV_LIVE_OFF": "şu an kimse yayında değil"
 }
