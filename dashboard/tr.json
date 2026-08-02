@@ -962,5 +962,12 @@
   "ED_OVERLAY_BOTTOM_HINT": "Geniş bir görsel en iyisi; altta boydan boya uzar.",
   "ED_SOCIAL_ICONS": "Sosyal ikonlar",
   "ED_SOCIAL_ICON_COLOR": "İkon rengi",
-  "ED_TRACK_COVER": "Kapak görseli (opsiyonel)"
+  "ED_TRACK_COVER": "Kapak görseli (opsiyonel)",
+  "ST_MATURE_TITLE": "Hassas içerik · 18+",
+  "ST_MATURE_ON_DESC": "18+ yaş kapısı açık, dış adult linkler serbest. Profilin Explore, L!VE ve aramada gizli.",
+  "ST_MATURE_OFF_DESC": "Aç ve 18+ yaş kapısı ekle, OnlyFans gibi adult platformlara link ver. Glow sadece köprüdür, adult medya barındırmaz; avatarın, afişin ve butonların her yaşa uygun kalsın. Bu kuralları çiğnersen hesabın askıya alınıp kapatılabilir.",
+  "ST_MATURE_ON_TOAST": "18+ kapısı açık",
+  "ST_MATURE_OFF_TOAST": "18+ kapısı kapalı",
+  "ST_MATURE_ERR": "Güncellenemedi",
+  "LK_ADULT_GATE": "Adult platform linki eklemek için Ayarlar'dan Hassas içerik · 18+'ı aç."
 }

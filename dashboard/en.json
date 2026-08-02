@@ -937,5 +937,12 @@
   "ED_OVERLAY_BOTTOM_HINT": "A wide image works best. It spans the full width at the bottom.",
   "ED_SOCIAL_ICONS": "Social icons",
   "ED_SOCIAL_ICON_COLOR": "Icon color",
-  "ED_TRACK_COVER": "Cover art (optional)"
+  "ED_TRACK_COVER": "Cover art (optional)",
+  "ST_MATURE_TITLE": "Sensitive content · 18+",
+  "ST_MATURE_ON_DESC": "18+ age gate is on and adult links are allowed. Your profile is hidden from Explore, L!VE and search.",
+  "ST_MATURE_OFF_DESC": "Turn on to add an 18+ age gate and link adult platforms like OnlyFans. Glow only links out and never hosts adult media; keep your avatar, banner and buttons safe for all ages. Break these rules and your account can be suspended or removed.",
+  "ST_MATURE_ON_TOAST": "18+ gate on",
+  "ST_MATURE_OFF_TOAST": "18+ gate off",
+  "ST_MATURE_ERR": "Couldn't update",
+  "LK_ADULT_GATE": "Turn on Sensitive content · 18+ in Settings to add adult-platform links."
 }

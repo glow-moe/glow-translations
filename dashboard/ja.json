@@ -937,5 +937,12 @@
   "ED_OVERLAY_BOTTOM_HINT": "横長の画像がいちばん。下で横いっぱいに広がる。",
   "ED_SOCIAL_ICONS": "SNS アイコン",
   "ED_SOCIAL_ICON_COLOR": "アイコンの色",
-  "ED_TRACK_COVER": "カバー画像（任意）"
+  "ED_TRACK_COVER": "カバー画像（任意）",
+  "ST_MATURE_TITLE": "センシティブな内容 · 18+",
+  "ST_MATURE_ON_DESC": "18+の年齢ゲートがオンで、アダルトのリンクを貼れる。プロフィールは Explore・L!VE・検索から隠れる。",
+  "ST_MATURE_OFF_DESC": "オンにすると18+の年齢ゲートが付いて、OnlyFans みたいなアダルトプラットフォームにリンクできる。Glow はリンクを出すだけで、アダルトなメディアは置けない。アイコン・バナー・ボタンは全年齢向けに。ルールを破るとアカウントが停止・削除されることがある。",
+  "ST_MATURE_ON_TOAST": "18+ゲート オン",
+  "ST_MATURE_OFF_TOAST": "18+ゲート オフ",
+  "ST_MATURE_ERR": "更新できなかった",
+  "LK_ADULT_GATE": "アダルトプラットフォームのリンクを貼るには、設定でセンシティブな内容 · 18+ をオンにして。"
 }

@@ -937,5 +937,12 @@
   "ED_OVERLAY_BOTTOM_HINT": "Una imagen ancha queda mejor; se estira a todo lo ancho abajo.",
   "ED_SOCIAL_ICONS": "Iconos sociales",
   "ED_SOCIAL_ICON_COLOR": "Color del icono",
-  "ED_TRACK_COVER": "Portada (opcional)"
+  "ED_TRACK_COVER": "Portada (opcional)",
+  "ST_MATURE_TITLE": "Contenido sensible · 18+",
+  "ST_MATURE_ON_DESC": "La barrera de edad 18+ está activada y los links adultos están permitidos. Tu perfil queda oculto de Explore, L!VE y las búsquedas.",
+  "ST_MATURE_OFF_DESC": "Actívalo para poner una barrera de edad 18+ y enlazar plataformas adultas como OnlyFans. Glow solo enlaza hacia afuera y nunca aloja contenido adulto; mantén tu avatar, banner y botones aptos para todo público. Si rompes estas reglas, tu cuenta puede ser suspendida o eliminada.",
+  "ST_MATURE_ON_TOAST": "Barrera 18+ activada",
+  "ST_MATURE_OFF_TOAST": "Barrera 18+ desactivada",
+  "ST_MATURE_ERR": "No se pudo actualizar",
+  "LK_ADULT_GATE": "Activa Contenido sensible · 18+ en Ajustes para agregar links de plataformas adultas."
 }
