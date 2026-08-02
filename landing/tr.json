@@ -180,5 +180,21 @@
   "LV_EXT_LABEL": "Tarayıcı eklentisi",
   "LV_DESK_LABEL": "Masaüstü uygulaması",
   "LV_MAINT_TITLE": "{label} bakımda",
-  "LV_MAINT_SUB": "Üzerinde çalışıyoruz. Yakında tekrar bak ✦"
+  "LV_MAINT_SUB": "Üzerinde çalışıyoruz. Yakında tekrar bak ✦",
+  "DOM_CAP_YOURS": "hepsi senin! ✧",
+  "DOM_CAP_TAKEN": "alınmış, başka dene (´；ω；`)",
+  "DOM_CAP_CHECKING": "kontrol ediliyor... ⋆",
+  "DOM_CAP_IDLE": "adını seç, domainini seç ♡",
+  "DOM_STILL": "adın hâlâ",
+  "DOM_FREE": "boş mu?",
+  "DOM_ARIA": "adını seç",
+  "DOM_CLAIM": "kap ♡",
+  "DOM_HEAD_OUR": "bizim",
+  "DOM_HEAD_DOMAINS": "domainler",
+  "DOM_TAGLINE": "istediğin domaini kap, ya da hepsini birden kullan ♡",
+  "DOM_MORE": "＋ yakında daha fazlası…",
+  "DOM_NOTE_FREE": "ücretsiz domainler sonsuza dek ücretsiz ♡",
+  "DOM_NOTE_GOLD": "✦ altın olanlar Glow+",
+  "HERO_PICK_LABEL": "Kullanıcı adı seç",
+  "HELP_WN_TITLE": "<span class=\"hc-grad-text\">yenilikler</span> ✧"
 }

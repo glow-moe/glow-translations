@@ -180,5 +180,21 @@
   "LV_EXT_LABEL": "Browser extension",
   "LV_DESK_LABEL": "Desktop app",
   "LV_MAINT_TITLE": "{label} is under maintenance",
-  "LV_MAINT_SUB": "We're tuning it up. Check back soon ✦"
+  "LV_MAINT_SUB": "We're tuning it up. Check back soon ✦",
+  "HELP_WN_TITLE": "what’s <span class=\"hc-grad-text\">new</span> ✧",
+  "DOM_CAP_YOURS": "it's all yours! ✧",
+  "DOM_CAP_TAKEN": "taken, try another (´；ω；`)",
+  "DOM_CAP_CHECKING": "checking... ⋆",
+  "DOM_CAP_IDLE": "pick your name, pick your domain ♡",
+  "DOM_STILL": "is your name still",
+  "DOM_FREE": "free?",
+  "DOM_ARIA": "pick your name",
+  "DOM_CLAIM": "claim ♡",
+  "HERO_PICK_LABEL": "Pick a username",
+  "DOM_HEAD_OUR": "our",
+  "DOM_HEAD_DOMAINS": "domains",
+  "DOM_TAGLINE": "grab any domain you like, or rock all of them at once ♡",
+  "DOM_MORE": "＋ more coming soon…",
+  "DOM_NOTE_FREE": "free domains are free forever ♡",
+  "DOM_NOTE_GOLD": "✦ gold ones are Glow+"
 }
