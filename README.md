@@ -11,8 +11,8 @@ Two folders, one per part of the site:
 - `landing/` : the public pages (home, footer, help center).
 - `dashboard/` : everything you see after logging in.
 
-Inside each, one file per language, named by its code: `tr.json`, `es.json`,
-`ja.json`, `de.json`, `fr.json`, `pt-BR.json`. `en.json` is the English
+Inside each, one file per language, named by its code. We currently ship
+`tr.json`, `es.json`, `ja.json`, `pt-BR.json`. `en.json` is the English
 reference, leave it alone.
 
 A file is just key/value pairs:

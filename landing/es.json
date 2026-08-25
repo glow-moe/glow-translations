@@ -196,5 +196,19 @@
   "LV_EXT_LABEL": "Extensión de navegador",
   "LV_DESK_LABEL": "App de escritorio",
   "LV_MAINT_TITLE": "{label} está en mantenimiento",
-  "LV_MAINT_SUB": "Le estamos dando una afinada. Vuelve pronto ✦"
+  "LV_MAINT_SUB": "Le estamos dando una afinada. Vuelve pronto ✦",
+  "HELP_I_GUESTBOOK": "tu libro de visitas",
+  "HELP_I_ANALYTICS": "estadísticas",
+  "HELP_I_MORE_GAMING": "Roblox, ajedrez y más",
+  "HELP_I_MOVIES": "películas y series",
+  "HELP_I_DOMAINS": "dominios personalizados",
+  "HELP_I_MATURE": "contenido 18+ y sensible",
+  "COG_EYEBROW": "✦ destacados",
+  "COG_HEAD_PRE": "creadores en ",
+  "COG_HEAD_ACCENT": "glow",
+  "COG_SUB": "los creadores que le dan vida a glow ♡",
+  "COG_VISIT": "visitar ♡",
+  "COG_CTA_PRE": "¿quieres estar aquí? ",
+  "COG_CTA_LINK": "reclama tu nombre ✦",
+  "HERO_BROWSE": "o explora perfiles en vivo →"
 }

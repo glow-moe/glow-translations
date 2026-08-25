@@ -196,5 +196,19 @@
   "LV_EXT_LABEL": "ブラウザ拡張機能",
   "LV_DESK_LABEL": "デスクトップアプリ",
   "LV_MAINT_TITLE": "{label} はメンテナンス中",
-  "LV_MAINT_SUB": "ちょっと調整中。またのぞいてね ✦"
+  "LV_MAINT_SUB": "ちょっと調整中。またのぞいてね ✦",
+  "HELP_I_GUESTBOOK": "あなたのゲストブック",
+  "HELP_I_ANALYTICS": "アナリティクス",
+  "HELP_I_MORE_GAMING": "Roblox、チェスなどなど",
+  "HELP_I_MOVIES": "映画・アニメ",
+  "HELP_I_DOMAINS": "カスタムドメイン",
+  "HELP_I_MATURE": "18+・センシティブなコンテンツ",
+  "COG_EYEBROW": "✦ 注目のクリエイター",
+  "COG_HEAD_PRE": "みんなの",
+  "COG_HEAD_ACCENT": "glow",
+  "COG_SUB": "glowをglowたらしめるクリエイターたち ♡",
+  "COG_VISIT": "見にいく ♡",
+  "COG_CTA_PRE": "ここに載りたい？ ",
+  "COG_CTA_LINK": "自分の名前をゲットする ✦",
+  "HERO_BROWSE": "公開中のプロフィールを見てみる →"
 }

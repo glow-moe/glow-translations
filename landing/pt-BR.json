@@ -196,5 +196,19 @@
   "LV_EXT_LABEL": "Extensão de navegador",
   "LV_DESK_LABEL": "App de desktop",
   "LV_MAINT_TITLE": "{label} está em manutenção",
-  "LV_MAINT_SUB": "Tamo ajeitando. Volta logo ✦"
+  "LV_MAINT_SUB": "Tamo ajeitando. Volta logo ✦",
+  "HELP_I_GUESTBOOK": "seu livro de visitas",
+  "HELP_I_ANALYTICS": "estatísticas",
+  "HELP_I_MORE_GAMING": "Roblox, xadrez e mais",
+  "HELP_I_MOVIES": "filmes e séries",
+  "HELP_I_DOMAINS": "domínios personalizados",
+  "HELP_I_MATURE": "conteúdo 18+ e sensível",
+  "COG_EYEBROW": "✦ em destaque",
+  "COG_HEAD_PRE": "criadores no ",
+  "COG_HEAD_ACCENT": "glow",
+  "COG_SUB": "os criadores que fazem o glow brilhar ♡",
+  "COG_VISIT": "visitar ♡",
+  "COG_CTA_PRE": "quer aparecer aqui? ",
+  "COG_CTA_LINK": "garanta seu nome ✦",
+  "HERO_BROWSE": "ou veja perfis ao vivo →"
 }
