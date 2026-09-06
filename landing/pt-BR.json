@@ -144,7 +144,7 @@
   "WN_READ": "ler mais →",
   "WN_BACK_BLOG": "← o blog do glow",
   "WN_BACK_BLOG_BTN": "voltar pro blog",
-  "CN_ROBLOX_CONNECTED": "Roblox conectado ✨",
+  "CN_ROBLOX_CONNECTED": "Roblox conectado ✦",
   "CN_ROBLOX_DIALOG_TITLE": "Conectar Roblox",
   "CN_ROBLOX_DIALOG_DESC": "Só o seu usuário do Roblox; seu avatar, seus seguidores e o que você tá jogando agora a gente puxa pelo lado do servidor.",
   "CN_ROBLOX_USERNAME_PLACEHOLDER": "usuário do Roblox",
@@ -227,5 +227,8 @@
   "WN_COMMENT_EMPTY": "ainda sem comentários, seja a primeira pessoa ✧",
   "WN_COMMENT_DELETE": "excluir",
   "WN_COMMENT_FAIL": "não foi possível publicar",
-  "WN_TEAM": "equipe glow"
+  "WN_TEAM": "equipe glow",
+  "WN_LIKE": "Curtir",
+  "WN_LIKED": "Curtido",
+  "WN_LIKE_SIGN_IN": "Entre para curtir"
 }

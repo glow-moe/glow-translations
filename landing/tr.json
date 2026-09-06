@@ -146,7 +146,7 @@
   "WN_READ": "devamını oku →",
   "WN_BACK_BLOG": "← glow blog",
   "WN_BACK_BLOG_BTN": "bloga dön",
-  "CN_ROBLOX_CONNECTED": "Roblox bağlandı ✨",
+  "CN_ROBLOX_CONNECTED": "Roblox bağlandı ✦",
   "CN_ROBLOX_DIALOG_TITLE": "Roblox'u bağla",
   "CN_ROBLOX_DIALOG_DESC": "Tek istediğimiz Roblox kullanıcı adın; avatarını, takipçini ve şu an ne oynadığını sunucu tarafında biz hallederiz.",
   "CN_ROBLOX_USERNAME_PLACEHOLDER": "Roblox kullanıcı adı",
@@ -227,5 +227,8 @@
   "WN_COMMENT_EMPTY": "henüz yorum yok, ilk sen ol ✧",
   "WN_COMMENT_DELETE": "sil",
   "WN_COMMENT_FAIL": "gönderilemedi",
-  "WN_TEAM": "glow ekibi"
+  "WN_TEAM": "glow ekibi",
+  "WN_LIKE": "Beğen",
+  "WN_LIKED": "Beğendin",
+  "WN_LIKE_SIGN_IN": "Beğenmek için giriş yap"
 }

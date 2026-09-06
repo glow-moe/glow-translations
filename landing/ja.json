@@ -144,7 +144,7 @@
   "WN_READ": "続きを読む →",
   "WN_BACK_BLOG": "← glow ブログ",
   "WN_BACK_BLOG_BTN": "ブログに戻る",
-  "CN_ROBLOX_CONNECTED": "Roblox 連携したよ ✨",
+  "CN_ROBLOX_CONNECTED": "Roblox 連携したよ ✦",
   "CN_ROBLOX_DIALOG_TITLE": "Roblox を連携",
   "CN_ROBLOX_DIALOG_DESC": "Roblox のユーザー名だけでOK。アバター、フォロワー数、いま遊んでるゲームはサーバー側で取ってくる。",
   "CN_ROBLOX_USERNAME_PLACEHOLDER": "Roblox のユーザー名",
@@ -227,5 +227,8 @@
   "WN_COMMENT_EMPTY": "まだコメントはありません。最初のひとりになろう ✧",
   "WN_COMMENT_DELETE": "削除",
   "WN_COMMENT_FAIL": "投稿できませんでした",
-  "WN_TEAM": "glow チーム"
+  "WN_TEAM": "glow チーム",
+  "WN_LIKE": "いいね",
+  "WN_LIKED": "いいね済み",
+  "WN_LIKE_SIGN_IN": "いいねするにはログイン"
 }
