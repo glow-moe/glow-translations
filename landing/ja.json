@@ -140,7 +140,7 @@
   "WN_SUB": "Glow に足した最新のあれこれ ✧",
   "WN_EMPTY": "ここはまだ空っぽ、またのぞいてね ✧",
   "WN_BACK": "Glow に戻る",
-  "WN_LATEST": "· 最新",
+  "WN_LATEST": "最新",
   "WN_READ": "続きを読む →",
   "WN_BACK_BLOG": "← glow ブログ",
   "WN_BACK_BLOG_BTN": "ブログに戻る",
@@ -229,5 +229,6 @@
   "WN_TEAM": "glow チーム",
   "WN_LIKE": "いいね",
   "WN_LIKED": "いいね済み",
-  "WN_LIKE_SIGN_IN": "いいねするにはログイン"
+  "WN_LIKE_SIGN_IN": "いいねするにはログイン",
+  "WN_EARLIER": "それ以前"
 }

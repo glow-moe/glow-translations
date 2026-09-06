@@ -140,7 +140,7 @@
   "WN_SUB": "lo más nuevo que le metimos a Glow ✧",
   "WN_EMPTY": "aquí todavía no hay nada, vuelve pronto ✧",
   "WN_BACK": "volver a Glow",
-  "WN_LATEST": "· lo último",
+  "WN_LATEST": "lo último",
   "WN_READ": "leer más →",
   "WN_BACK_BLOG": "← el blog de glow",
   "WN_BACK_BLOG_BTN": "volver al blog",
@@ -229,5 +229,6 @@
   "WN_TEAM": "equipo glow",
   "WN_LIKE": "Me gusta",
   "WN_LIKED": "Te gusta",
-  "WN_LIKE_SIGN_IN": "Inicia sesión para dar me gusta"
+  "WN_LIKE_SIGN_IN": "Inicia sesión para dar me gusta",
+  "WN_EARLIER": "antes"
 }

@@ -141,7 +141,7 @@
   "WN_SUB": "Glow'a kattığımız en taze şeyler ✧",
   "WN_EMPTY": "burada daha bir şey yok, sonra tekrar uğra ✧",
   "WN_BACK": "Glow'a dön",
-  "WN_LATEST": "· en yeni",
+  "WN_LATEST": "en yeni",
   "WN_READ": "devamını oku →",
   "WN_BACK_BLOG": "← glow blog",
   "WN_BACK_BLOG_BTN": "bloga dön",
@@ -229,5 +229,6 @@
   "WN_TEAM": "glow ekibi",
   "WN_LIKE": "Beğen",
   "WN_LIKED": "Beğendin",
-  "WN_LIKE_SIGN_IN": "Beğenmek için giriş yap"
+  "WN_LIKE_SIGN_IN": "Beğenmek için giriş yap",
+  "WN_EARLIER": "daha önce"
 }
