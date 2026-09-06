@@ -752,7 +752,7 @@
   "AP_HIDE_BRANDING_HINT": "公開プロフィールから Glow バッジを外す。",
   "AP_HIDE_BRANDING_TOGGLE": "Glow バッジを隠す",
   "AP_HIDE_BRANDING_DESC": "プロフィールの隅にある小さな Glow+ バッジ。",
-  "LK_TRADEMARK_DISCLAIMER": "Mojang、Steam、Valve、Roblox、AniList、MyAnimeList、PlayStation、Microsoft、Xbox とは無関係で、これらから承認も受けていません。すべての商標は各所有者に帰属します。",
+  "LK_TRADEMARK_DISCLAIMER": "glow は Blizzard Entertainment、Valve、Discord、Riot Games、Sony Interactive Entertainment、Microsoft、TikTok、Meta、その他連携可能なサービスと提携・承認・後援の関係にありません。Overwatch および Battle.net は Blizzard Entertainment, Inc. の商標です。その他の名称とロゴは各所有者に帰属し、連携するサービスを示す目的でのみ使用しています。",
   "ED_BG_TIME_HINT": "時間帯ごとに違う背景で、自動で切り替わる。空のスロットは他のでカバーされる。",
   "ED_BG_TIME_OWNER": "自分の現地時間に合わせる",
   "ED_BG_TIME_OWNER_DESC": "みんなが自分の時計じゃなく、あなたのいる時間の背景を見る。プロフィールでタイムゾーンの設定が必要。",

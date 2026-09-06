@@ -752,7 +752,7 @@
   "AP_HIDE_BRANDING_HINT": "Removes the Glow badge from your public profile.",
   "AP_HIDE_BRANDING_TOGGLE": "Hide Glow badge",
   "AP_HIDE_BRANDING_DESC": "The small Glow+ badge in the corner of your profile.",
-  "LK_TRADEMARK_DISCLAIMER": "Not affiliated with or endorsed by Mojang, Steam, Valve, Roblox, AniList, MyAnimeList, PlayStation, Microsoft or Xbox. All trademarks are the property of their respective owners.",
+  "LK_TRADEMARK_DISCLAIMER": "glow is not affiliated with, endorsed by, or sponsored by Blizzard Entertainment, Valve, Discord, Riot Games, Sony Interactive Entertainment, Microsoft, TikTok, Meta, or any other service you can connect. Overwatch and Battle.net are trademarks of Blizzard Entertainment, Inc.; all other names and logos belong to their owners and are used only to identify the service you are connecting.",
   "ED_BG_TIME_HINT": "A different background for each part of the day, and it swaps automatically. Any slot you leave empty falls back to the others.",
   "ED_BG_TIME_OWNER": "Switch to my local time",
   "ED_BG_TIME_OWNER_DESC": "Everyone sees the background for the time where you are, not their own clock. Needs a timezone set in Profile.",

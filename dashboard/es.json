@@ -752,7 +752,7 @@
   "AP_HIDE_BRANDING_HINT": "Quita la insignia de Glow de tu perfil público.",
   "AP_HIDE_BRANDING_TOGGLE": "Ocultar insignia de Glow",
   "AP_HIDE_BRANDING_DESC": "La pequeña insignia de Glow+ en la esquina de tu perfil.",
-  "LK_TRADEMARK_DISCLAIMER": "Sin afiliación ni respaldo de Mojang, Steam, Valve, Roblox, AniList, MyAnimeList, PlayStation, Microsoft o Xbox. Todas las marcas son propiedad de sus respectivos dueños.",
+  "LK_TRADEMARK_DISCLAIMER": "glow no está afiliado, respaldado ni patrocinado por Blizzard Entertainment, Valve, Discord, Riot Games, Sony Interactive Entertainment, Microsoft, TikTok, Meta ni ningún otro servicio que puedas conectar. Overwatch y Battle.net son marcas de Blizzard Entertainment, Inc.; los demás nombres y logotipos pertenecen a sus propietarios y solo se usan para identificar el servicio que conectas.",
   "ED_BG_TIME_HINT": "Un fondo distinto para cada parte del día; cambia solo. El espacio que dejes vacío usa los demás.",
   "ED_BG_TIME_OWNER": "Usar mi hora local",
   "ED_BG_TIME_OWNER_DESC": "Todos ven el fondo según tu hora, no la de ellos. Necesitas fijar una zona horaria en Perfil.",

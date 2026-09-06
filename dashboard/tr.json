@@ -752,7 +752,7 @@
   "AP_HIDE_BRANDING_HINT": "Herkese açık profilinden Glow rozetini kaldırır.",
   "AP_HIDE_BRANDING_TOGGLE": "Glow rozetini gizle",
   "AP_HIDE_BRANDING_DESC": "Profilinin köşesindeki küçük Glow+ rozeti.",
-  "LK_TRADEMARK_DISCLAIMER": "Mojang, Steam, Valve, Roblox, AniList, MyAnimeList, PlayStation, Microsoft veya Xbox ile bağlantılı değildir ve onlar tarafından onaylanmamıştır. Tüm ticari markalar ilgili sahiplerine aittir.",
+  "LK_TRADEMARK_DISCLAIMER": "glow; Blizzard Entertainment, Valve, Discord, Riot Games, Sony Interactive Entertainment, Microsoft, TikTok, Meta veya bağlayabileceğiniz başka hiçbir hizmetle bağlantılı, onaylı ya da sponsorlu değildir. Overwatch ve Battle.net, Blizzard Entertainment, Inc. şirketinin ticari markalarıdır; diğer tüm ad ve logolar sahiplerine aittir ve yalnızca bağladığınız hizmeti tanımlamak için kullanılır.",
   "ED_BG_TIME_HINT": "Günün her bölümüne ayrı bir arka plan; kendiliğinden değişir. Boş bıraktığın slot diğerlerine düşer.",
   "ED_BG_TIME_OWNER": "Benim yerel saatime geç",
   "ED_BG_TIME_OWNER_DESC": "Herkes kendi saatini değil, senin bulunduğun saatteki arka planı görür. Profil'de saat dilimini ayarlaman gerek.",
