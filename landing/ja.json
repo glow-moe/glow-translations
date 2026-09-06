@@ -226,5 +226,6 @@
   "WN_COMMENT_VERIFY": "コメントするにはメール認証が必要です",
   "WN_COMMENT_EMPTY": "まだコメントはありません。最初のひとりになろう ✧",
   "WN_COMMENT_DELETE": "削除",
-  "WN_COMMENT_FAIL": "投稿できませんでした"
+  "WN_COMMENT_FAIL": "投稿できませんでした",
+  "WN_TEAM": "glow チーム"
 }

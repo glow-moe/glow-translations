@@ -226,5 +226,6 @@
   "WN_COMMENT_VERIFY": "confirm your email to comment",
   "WN_COMMENT_EMPTY": "no comments yet, be the first ✧",
   "WN_COMMENT_DELETE": "delete",
-  "WN_COMMENT_FAIL": "couldn't post"
+  "WN_COMMENT_FAIL": "couldn't post",
+  "WN_TEAM": "glow team"
 }

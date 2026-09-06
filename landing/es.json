@@ -226,5 +226,6 @@
   "WN_COMMENT_VERIFY": "confirma tu correo para comentar",
   "WN_COMMENT_EMPTY": "aún no hay comentarios, sé la primera persona ✧",
   "WN_COMMENT_DELETE": "eliminar",
-  "WN_COMMENT_FAIL": "no se pudo publicar"
+  "WN_COMMENT_FAIL": "no se pudo publicar",
+  "WN_TEAM": "equipo glow"
 }

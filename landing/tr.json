@@ -226,5 +226,6 @@
   "WN_COMMENT_VERIFY": "yorum için e-postanı doğrula",
   "WN_COMMENT_EMPTY": "henüz yorum yok, ilk sen ol ✧",
   "WN_COMMENT_DELETE": "sil",
-  "WN_COMMENT_FAIL": "gönderilemedi"
+  "WN_COMMENT_FAIL": "gönderilemedi",
+  "WN_TEAM": "glow ekibi"
 }
