@@ -1241,7 +1241,6 @@
   "AUTH_SHOW_GAMES": "ゲーム",
   "AUTH_SHOW_ANIME": "アニメ",
   "AUTH_SHOW_ON_GLOW": "glow.moe にて ✦",
-  "CM_TITLE": "コメント",
   "CM_SUB": "プロフィールに残されたコメントを管理",
   "CM_AWAITING": "{n} 件が承認待ち",
   "CM_YOU_WROTE": "あなたの投稿 {n}",

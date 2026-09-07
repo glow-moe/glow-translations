@@ -1241,7 +1241,6 @@
   "AUTH_SHOW_GAMES": "games",
   "AUTH_SHOW_ANIME": "anime",
   "AUTH_SHOW_ON_GLOW": "on glow.moe ✦",
-  "CM_TITLE": "Comments",
   "CM_SUB": "Manage the comments left on your profile",
   "CM_AWAITING": "{n} awaiting approval",
   "CM_YOU_WROTE": "You wrote {n}",
