@@ -1267,5 +1267,16 @@
   "CM_STATUS_active": "actif",
   "CM_STATUS_pending": "en attente",
   "CM_STATUS_hidden": "masqué",
-  "SH_NAV_COMMENTS": "Commentaires"
+  "SH_NAV_COMMENTS": "Commentaires",
+  "CM_T_APPROVED": "Approuvé",
+  "CM_T_HIDDEN": "Masqué",
+  "CM_T_SHOWN": "Affiché",
+  "CM_T_DELETED": "Supprimé",
+  "CM_T_PINNED": "Épinglé",
+  "CM_T_UNPINNED": "Désépinglé",
+  "CM_PINNED": "épinglé",
+  "CM_LIKE": "J'aime",
+  "CM_PIN": "Épingler",
+  "CM_UNPIN": "Désépingler",
+  "CM_YOU_WROTE_N": "Tu as écrit · {n}"
 }

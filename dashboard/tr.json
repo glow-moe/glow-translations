@@ -1283,5 +1283,16 @@
   "CM_STATUS_active": "aktif",
   "CM_STATUS_pending": "onay bekliyor",
   "CM_STATUS_hidden": "gizli",
-  "SH_NAV_COMMENTS": "Yorumlar"
+  "SH_NAV_COMMENTS": "Yorumlar",
+  "CM_T_APPROVED": "Onaylandı",
+  "CM_T_HIDDEN": "Gizlendi",
+  "CM_T_SHOWN": "Gösterildi",
+  "CM_T_DELETED": "Silindi",
+  "CM_T_PINNED": "Sabitlendi",
+  "CM_T_UNPINNED": "Sabitleme kaldırıldı",
+  "CM_PINNED": "sabit",
+  "CM_LIKE": "Beğen",
+  "CM_PIN": "Sabitle",
+  "CM_UNPIN": "Sabitlemeyi kaldır",
+  "CM_YOU_WROTE_N": "Yazdıkların · {n}"
 }

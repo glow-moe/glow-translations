@@ -1267,5 +1267,16 @@
   "CM_STATUS_active": "公開中",
   "CM_STATUS_pending": "承認待ち",
   "CM_STATUS_hidden": "非表示",
-  "SH_NAV_COMMENTS": "コメント"
+  "SH_NAV_COMMENTS": "コメント",
+  "CM_T_APPROVED": "承認しました",
+  "CM_T_HIDDEN": "非表示にしました",
+  "CM_T_SHOWN": "表示しました",
+  "CM_T_DELETED": "削除しました",
+  "CM_T_PINNED": "固定しました",
+  "CM_T_UNPINNED": "固定を解除しました",
+  "CM_PINNED": "固定",
+  "CM_LIKE": "いいね",
+  "CM_PIN": "固定",
+  "CM_UNPIN": "固定解除",
+  "CM_YOU_WROTE_N": "あなたの投稿 · {n}"
 }

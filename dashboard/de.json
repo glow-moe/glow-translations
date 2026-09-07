@@ -1267,5 +1267,16 @@
   "CM_STATUS_active": "aktiv",
   "CM_STATUS_pending": "wartet",
   "CM_STATUS_hidden": "versteckt",
-  "SH_NAV_COMMENTS": "Kommentare"
+  "SH_NAV_COMMENTS": "Kommentare",
+  "CM_T_APPROVED": "Freigegeben",
+  "CM_T_HIDDEN": "Ausgeblendet",
+  "CM_T_SHOWN": "Angezeigt",
+  "CM_T_DELETED": "Gelöscht",
+  "CM_T_PINNED": "Angepinnt",
+  "CM_T_UNPINNED": "Losgelöst",
+  "CM_PINNED": "angepinnt",
+  "CM_LIKE": "Like",
+  "CM_PIN": "Anpinnen",
+  "CM_UNPIN": "Lösen",
+  "CM_YOU_WROTE_N": "Von dir · {n}"
 }

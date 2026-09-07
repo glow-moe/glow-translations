@@ -1267,5 +1267,16 @@
   "CM_STATUS_active": "ativo",
   "CM_STATUS_pending": "pendente",
   "CM_STATUS_hidden": "oculto",
-  "SH_NAV_COMMENTS": "Comentários"
+  "SH_NAV_COMMENTS": "Comentários",
+  "CM_T_APPROVED": "Aprovado",
+  "CM_T_HIDDEN": "Ocultado",
+  "CM_T_SHOWN": "Exibido",
+  "CM_T_DELETED": "Excluído",
+  "CM_T_PINNED": "Fixado",
+  "CM_T_UNPINNED": "Desafixado",
+  "CM_PINNED": "fixado",
+  "CM_LIKE": "Curtir",
+  "CM_PIN": "Fixar",
+  "CM_UNPIN": "Desafixar",
+  "CM_YOU_WROTE_N": "Você escreveu · {n}"
 }

@@ -1267,5 +1267,16 @@
   "CM_STATUS_active": "active",
   "CM_STATUS_pending": "pending",
   "CM_STATUS_hidden": "hidden",
-  "SH_NAV_COMMENTS": "Comments"
+  "SH_NAV_COMMENTS": "Comments",
+  "CM_T_APPROVED": "Approved",
+  "CM_T_HIDDEN": "Hidden",
+  "CM_T_SHOWN": "Shown",
+  "CM_T_DELETED": "Deleted",
+  "CM_T_PINNED": "Pinned",
+  "CM_T_UNPINNED": "Unpinned",
+  "CM_PINNED": "pinned",
+  "CM_LIKE": "Like",
+  "CM_PIN": "Pin",
+  "CM_UNPIN": "Unpin",
+  "CM_YOU_WROTE_N": "You wrote · {n}"
 }
