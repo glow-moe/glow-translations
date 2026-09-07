@@ -1233,5 +1233,6 @@
   "VB_RESEND": "メールを再送信",
   "VB_RESEND_IN": "{mm}:{ss}後に再送信",
   "VB_SENDING": "送信中…",
-  "VB_SENT": "確認メールを送信しました ✦"
+  "VB_SENT": "確認メールを送信しました ✦",
+  "ST_LANG_MACHINE": "* 機械翻訳"
 }

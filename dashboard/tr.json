@@ -1249,5 +1249,6 @@
   "LV_FZ_STEP3": "Bir yarış başlat. HUD'un alttaki linkte canlıya geçer.",
   "LV_FZ_DATAOUT_PATH": "Ayarlar → HUD ve Oynanış → Data Out",
   "LV_FZ_DATAOUT_NOTE": "127.0.0.1 çünkü oyun ve uygulama aynı PC'de çalışıyor. 5300 ise uygulamanın dinlediği port.",
-  "LV_FZ_OBS": "Aynı link OBS tarayıcı kaynağı olarak da çalışır, yani HUD'u yayınına koyabilirsin. Sadece yarıştayken görünür."
+  "LV_FZ_OBS": "Aynı link OBS tarayıcı kaynağı olarak da çalışır, yani HUD'u yayınına koyabilirsin. Sadece yarıştayken görünür.",
+  "ST_LANG_MACHINE": "* makine çevirisi"
 }

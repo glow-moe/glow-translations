@@ -1233,5 +1233,6 @@
   "VB_RESEND": "Reenviar e-mail",
   "VB_RESEND_IN": "Reenviar em {mm}:{ss}",
   "VB_SENDING": "Enviando…",
-  "VB_SENT": "E-mail de verificação enviado ✦"
+  "VB_SENT": "E-mail de verificação enviado ✦",
+  "ST_LANG_MACHINE": "* tradução automática"
 }

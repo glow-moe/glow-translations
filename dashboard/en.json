@@ -1233,5 +1233,6 @@
   "VB_RESEND": "Resend email",
   "VB_RESEND_IN": "Resend in {mm}:{ss}",
   "VB_SENDING": "Sending…",
-  "VB_SENT": "Verification email sent ✦"
+  "VB_SENT": "Verification email sent ✦",
+  "ST_LANG_MACHINE": "* machine translated"
 }
