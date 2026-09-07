@@ -358,7 +358,7 @@
   "CN_FLASH_UNCONFIGURED": "{name} aún no está configurado en el servidor",
   "CN_COOLDOWN_TITLE": "{status}. Disponible en {time}",
   "CN_JUST_SYNCED": "Recién sincronizado",
-  "CN_FREE_PLAN_SYNC": "El plan gratis sincroniza cada 4 días",
+  "CN_FREE_PLAN_SYNC": "El plan gratis sincroniza cada {every}",
   "CN_SYNCING_ALL": "Sincronizando todo...",
   "CN_SYNC_ALL_IN": "Sincronizar todo en {time}",
   "CN_SYNC_ALL": "Sincronizar todo",
