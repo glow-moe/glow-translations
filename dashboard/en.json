@@ -1234,5 +1234,11 @@
   "VB_RESEND_IN": "Resend in {mm}:{ss}",
   "VB_SENDING": "Sending…",
   "VB_SENT": "Verification email sent ✦",
-  "ST_LANG_MACHINE": "* machine translated"
+  "ST_LANG_MACHINE": "* machine translated",
+  "AUTH_SHOW_TITLE_1": "the cutest inventory,",
+  "AUTH_SHOW_TITLE_2": "for your digital life ✦",
+  "AUTH_SHOW_SUB": "Store your game progress, stream schedules, and top shows in one place.",
+  "AUTH_SHOW_GAMES": "games",
+  "AUTH_SHOW_ANIME": "anime",
+  "AUTH_SHOW_ON_GLOW": "on glow.moe ✦"
 }

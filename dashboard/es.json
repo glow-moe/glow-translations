@@ -1234,5 +1234,11 @@
   "VB_RESEND_IN": "Reenviar en {mm}:{ss}",
   "VB_SENDING": "Enviando…",
   "VB_SENT": "Correo de verificación mandado ✦",
-  "ST_LANG_MACHINE": "* traducción automática (puede fallar)"
+  "ST_LANG_MACHINE": "* traducción automática (puede fallar)",
+  "AUTH_SHOW_TITLE_1": "el inventario más lindo",
+  "AUTH_SHOW_TITLE_2": "para tu vida digital ✦",
+  "AUTH_SHOW_SUB": "Guarda tu progreso en juegos, tus horarios de stream y tus series favoritas en un solo lugar.",
+  "AUTH_SHOW_GAMES": "juegos",
+  "AUTH_SHOW_ANIME": "anime",
+  "AUTH_SHOW_ON_GLOW": "en glow.moe ✦"
 }
