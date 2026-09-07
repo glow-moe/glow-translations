@@ -1234,7 +1234,7 @@
   "VB_RESEND_IN": "{mm}:{ss} geçtikten sonra bir daha yolla",
   "VB_SENDING": "Yollanıyor...",
   "VB_SENT": "Doğrulama e-postası yollandı ✦",
-  "ST_LANG_MACHINE": "* bu makine çevirisidir (Google Translate vs.)",
+  "ST_LANG_MACHINE": "* makine çevirisi",
   "LV_SHOW_ON_LIVE_TAB": "Ana sayfadaki L!VE sekmesinde vitrine çık",
   "LV_SHOW_ON_LIVE_TAB_HINT": "Yayındayken herkese açık olan \"kimler şu an canlı\" listesinde senin adın da döner. Kapatırsan canlı sayfan yine çalışır, sadece o ortak listede adın geçmez.",
   "LV_DESKTOP_APP_NOTE": "Senin oynadığın oyunlar ve onların Discord Rich Presence verisi bizzat bu bilgisayardaki uygulamadan gelir. Animeler ayrıdır: L!VE tarayıcı eklentisi o an ne izliyorsan onu profiline yansıtır.",
