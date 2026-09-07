@@ -358,7 +358,7 @@
   "CN_FLASH_UNCONFIGURED": "{name} sistemi sunucuda henüz hazır değil",
   "CN_COOLDOWN_TITLE": "{status}. {time} sonra tekrar deneyebilirsin",
   "CN_JUST_SYNCED": "Az önce güncellendi",
-  "CN_FREE_PLAN_SYNC": "Bedava plan verileri 4 günde bir çeker",
+  "CN_FREE_PLAN_SYNC": "Bedava planda veriler {every} aralıkla çekilir",
   "CN_SYNCING_ALL": "Her şey eşitleniyor...",
   "CN_SYNC_ALL_IN": "{time} sonra tümünü yeniden eşitle",
   "CN_SYNC_ALL": "Tümünü eşitle",
