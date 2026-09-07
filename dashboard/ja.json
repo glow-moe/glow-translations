@@ -358,7 +358,7 @@
   "CN_FLASH_UNCONFIGURED": "{name} はまだサーバー側で準備ができてないよ",
   "CN_COOLDOWN_TITLE": "{status}。{time}後にまた使えるよ",
   "CN_JUST_SYNCED": "さっき同期したばっかり",
-  "CN_FREE_PLAN_SYNC": "無料プランは4日ごとに自動で同期するよ",
+  "CN_FREE_PLAN_SYNC": "無料プランは{every}ごとに自動で同期するよ",
   "CN_SYNCING_ALL": "全部まとめて同期中...",
   "CN_SYNC_ALL_IN": "{time}後にすべて同期",
   "CN_SYNC_ALL": "すべて同期",
