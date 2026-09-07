@@ -1266,5 +1266,6 @@
   "CM_REPORT_FAIL": "Não foi possível enviar a denúncia.",
   "CM_STATUS_active": "ativo",
   "CM_STATUS_pending": "pendente",
-  "CM_STATUS_hidden": "oculto"
+  "CM_STATUS_hidden": "oculto",
+  "SH_NAV_COMMENTS": "Comentários"
 }

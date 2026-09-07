@@ -1266,5 +1266,6 @@
   "CM_REPORT_FAIL": "Meldung konnte nicht gesendet werden.",
   "CM_STATUS_active": "aktiv",
   "CM_STATUS_pending": "wartet",
-  "CM_STATUS_hidden": "versteckt"
+  "CM_STATUS_hidden": "versteckt",
+  "SH_NAV_COMMENTS": "Kommentare"
 }

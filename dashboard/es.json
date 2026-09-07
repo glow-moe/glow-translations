@@ -1266,5 +1266,6 @@
   "CM_REPORT_FAIL": "No se pudo enviar el reporte.",
   "CM_STATUS_active": "activo",
   "CM_STATUS_pending": "pendiente",
-  "CM_STATUS_hidden": "oculto"
+  "CM_STATUS_hidden": "oculto",
+  "SH_NAV_COMMENTS": "Comentarios"
 }

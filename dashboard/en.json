@@ -1266,5 +1266,6 @@
   "CM_REPORT_FAIL": "Couldn't send that report.",
   "CM_STATUS_active": "active",
   "CM_STATUS_pending": "pending",
-  "CM_STATUS_hidden": "hidden"
+  "CM_STATUS_hidden": "hidden",
+  "SH_NAV_COMMENTS": "Comments"
 }

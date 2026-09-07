@@ -1266,5 +1266,6 @@
   "CM_REPORT_FAIL": "Impossible d'envoyer le signalement.",
   "CM_STATUS_active": "actif",
   "CM_STATUS_pending": "en attente",
-  "CM_STATUS_hidden": "masqué"
+  "CM_STATUS_hidden": "masqué",
+  "SH_NAV_COMMENTS": "Commentaires"
 }

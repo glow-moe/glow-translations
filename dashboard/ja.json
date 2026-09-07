@@ -1266,5 +1266,6 @@
   "CM_REPORT_FAIL": "通報を送信できませんでした。",
   "CM_STATUS_active": "公開中",
   "CM_STATUS_pending": "承認待ち",
-  "CM_STATUS_hidden": "非表示"
+  "CM_STATUS_hidden": "非表示",
+  "SH_NAV_COMMENTS": "コメント"
 }

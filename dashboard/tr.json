@@ -1282,5 +1282,6 @@
   "CM_REPORT_FAIL": "Şikayet gönderilemedi.",
   "CM_STATUS_active": "aktif",
   "CM_STATUS_pending": "onay bekliyor",
-  "CM_STATUS_hidden": "gizli"
+  "CM_STATUS_hidden": "gizli",
+  "SH_NAV_COMMENTS": "Yorumlar"
 }
