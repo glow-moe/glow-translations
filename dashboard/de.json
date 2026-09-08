@@ -366,6 +366,8 @@
   "CN_DISCONNECTED": "{name} disconnected",
   "CN_VERIFIED": "Verifiziert",
   "CN_LINKED": "linked",
+  "CN_RECONNECT_HINT": "{brand} hat die Verbindung auf seiner Seite gekappt (Konto deaktiviert oder Zugriff entfernt). Verbinde neu, damit die Synchronisierung weiterläuft.",
+  "CN_RECONNECT": "neu verbinden",
   "CN_COMING_SOON": "Coming Soon",
   "CN_SYNC": "Syncen",
   "CN_LIVE": "Live",

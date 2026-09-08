@@ -366,6 +366,8 @@
   "CN_DISCONNECTED": "{name} の連携を外したよ",
   "CN_VERIFIED": "確認済み",
   "CN_LINKED": "連携済み",
+  "CN_RECONNECT_HINT": "{brand} 側で接続が切られた（アカウント停止かアクセス削除）。同期を続けるには再接続して。",
+  "CN_RECONNECT": "再接続",
   "CN_COMING_SOON": "もうすぐ来るよ",
   "CN_SYNC": "同期する",
   "CN_LIVE": "ライブ",

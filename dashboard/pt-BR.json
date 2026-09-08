@@ -366,6 +366,8 @@
   "CN_DISCONNECTED": "{name} desconectado",
   "CN_VERIFIED": "Verificado",
   "CN_LINKED": "vinculado",
+  "CN_RECONNECT_HINT": "{brand} cortou a conexão do lado deles (conta desativada ou acesso removido). Reconecte para continuar sincronizando.",
+  "CN_RECONNECT": "reconectar",
   "CN_COMING_SOON": "Chegando em breve",
   "CN_SYNC": "Sincronizar",
   "CN_LIVE": "Ao vivo",

@@ -366,6 +366,8 @@
   "CN_DISCONNECTED": "{name} koptu",
   "CN_VERIFIED": "Doğrulandı",
   "CN_LINKED": "bağlandı",
+  "CN_RECONNECT_HINT": "{brand} bağlantıyı kendi tarafında kesti (hesap donduruldu ya da erişim kaldırıldı). Senkron için yeniden bağla.",
+  "CN_RECONNECT": "yeniden bağla",
   "CN_COMING_SOON": "Çok yakında",
   "CN_SYNC": "Güncelle",
   "CN_LIVE": "Canlı",
