@@ -1219,7 +1219,7 @@
   "REF_COPY_FAIL": "impossible de copier tout seul, sélectionne le texte",
   "REF_COUNT": "{n} personnes t'ont rejoint",
   "REF_EARNED": "t'as gratté {days} jours de Glow+",
-  "REF_SUB": "partage ton lien. quand un ami rejoint et met en place sa page (photo de profil + un lien), vous recevez tous les deux 7 jours de Glow+. jusqu'à {cap} amis par mois.",
+  "REF_SUB": "partage ton lien. quand un ami rejoint et met en place sa page (photo de profil + un lien), vous recevez tous les deux 7 jours de Glow+. jusqu'à {cap} amis au total.",
   "REF_TITLE": "ramène tes potes",
   "REF_PENDING": "{n} encore en train de s'installer",
   "REF_YOU_INCOMPLETE": "termine ta propre page pour recevoir tes jours :",

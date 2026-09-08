@@ -1219,7 +1219,7 @@
   "REF_COPY_FAIL": "no quiso copiar, selecciónalo a mano",
   "REF_COUNT": "{n} personas se unieron gracias a ti",
   "REF_EARNED": "te ganaste {days} días de Glow+",
-  "REF_SUB": "comparte tu enlace. cuando un amigo se une y arma su página (foto de perfil + un enlace), ambos reciben 7 días de Glow+. hasta {cap} amigos al mes.",
+  "REF_SUB": "comparte tu enlace. cuando un amigo se une y arma su página (foto de perfil + un enlace), ambos reciben 7 días de Glow+. hasta {cap} amigos en total.",
   "REF_TITLE": "invita a tus amigos al lado oscuro",
   "REF_PENDING": "{n} todavía armando su página",
   "REF_YOU_INCOMPLETE": "termina tu propia página para recibir tus días:",

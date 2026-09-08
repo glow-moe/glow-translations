@@ -1219,7 +1219,7 @@
   "REF_COPY_FAIL": "Kopyalayamadık, elle seçip kopyala",
   "REF_COUNT": "Senin sayende tam {n} kişi aramıza katıldı",
   "REF_EARNED": "{days} günlük Glow+ kaptın",
-  "REF_SUB": "linkini paylaş. bir arkadaşın katılıp sayfasını kurunca (profil resmi + bir link) ikiniz de 7 gün Glow+ alırsınız. ayda en fazla {cap} arkadaş.",
+  "REF_SUB": "linkini paylaş. bir arkadaşın katılıp sayfasını kurunca (profil resmi + bir link) ikiniz de 7 gün Glow+ alırsınız. toplam en fazla {cap} arkadaş.",
   "REF_TITLE": "Arkadaşlarını ortama davet et",
   "REF_PENDING": "{n} kişi hâlâ kuruyor",
   "REF_YOU_INCOMPLETE": "günlerini alabilmek için kendi sayfanı tamamla:",

@@ -1219,7 +1219,7 @@
   "REF_COPY_FAIL": "não consegui copiar sozinho, passa a faca em cima dele",
   "REF_COUNT": "Tão {n} amiguinhos aqui por sua causa",
   "REF_EARNED": "Cê tem {days} dias do Glow+ guardadinhos",
-  "REF_SUB": "compartilhe seu link. quando um amigo entra e monta a página (foto de perfil + um link), vocês dois ganham 7 dias de Glow+. até {cap} amigos por mês.",
+  "REF_SUB": "compartilhe seu link. quando um amigo entra e monta a página (foto de perfil + um link), vocês dois ganham 7 dias de Glow+. até {cap} amigos no total.",
   "REF_TITLE": "chama a cambada",
   "REF_PENDING": "{n} ainda montando a página",
   "REF_YOU_INCOMPLETE": "termine sua própria página para receber seus dias:",

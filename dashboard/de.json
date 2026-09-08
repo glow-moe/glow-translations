@@ -1219,7 +1219,7 @@
   "REF_COPY_FAIL": "kopieren hat nicht geklappt, markier ihn einfach so",
   "REF_COUNT": "{n} leute haben sich über dich registriert",
   "REF_EARNED": "{days} tage Glow+ gegrindet",
-  "REF_SUB": "teile deinen Link. Wenn ein Freund beitritt und seine Seite einrichtet (Profilbild + ein Link), bekommt ihr beide 7 Tage Glow+. Bis zu {cap} Freunde im Monat.",
+  "REF_SUB": "teile deinen Link. Wenn ein Freund beitritt und seine Seite einrichtet (Profilbild + ein Link), bekommt ihr beide 7 Tage Glow+. Insgesamt bis zu {cap} Freunde.",
   "REF_TITLE": "buddies einladen",
   "REF_PENDING": "{n} richten noch ein",
   "REF_YOU_INCOMPLETE": "Mach deine eigene Seite fertig, um deine Tage zu bekommen:",

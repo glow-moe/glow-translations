@@ -1219,7 +1219,7 @@
   "REF_COPY_FAIL": "couldn't copy, select it instead",
   "REF_COUNT": "{n} joined through you",
   "REF_EARNED": "{days} Glow+ days earned",
-  "REF_SUB": "share your link. when a friend joins and sets up their page (a profile picture + a link), you both get 7 days of Glow+. up to {cap} friends a month.",
+  "REF_SUB": "share your link. when a friend joins and sets up their page (a profile picture + a link), you both get 7 days of Glow+. up to {cap} friends in total.",
   "REF_TITLE": "invite friends",
   "REF_PENDING": "{n} still setting up",
   "REF_YOU_INCOMPLETE": "finish your own page to receive your days:",
