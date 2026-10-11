@@ -12,7 +12,7 @@ Two folders, one per part of the site:
 - `dashboard/` : everything you see after logging in.
 
 Inside each, one file per language, named by its code. We currently ship
-`tr.json`, `es.json`, `ja.json`, `pt-BR.json`, `fr.json` and `de.json`. `en.json` is the English
+`tr.json`, `es.json`, `ja.json`, `pt-BR.json`, `fr.json`, `de.json`, `it.json`, `nl.json` and `pl.json`. `en.json` is the English
 reference, leave it alone.
 
 A file is just key/value pairs:
